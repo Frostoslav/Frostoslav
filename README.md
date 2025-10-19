@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://vk.com/max_ataman" target="_blank">
-    <img src="https://avatars.mds.yandex.net/i?id=3958fc83911618d436675e6da272288d_l-5231453-images-thumbs&n=13&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://avatars.mds.yandex.net/i?id=b9c431fcdaa1154fc88907f63d0753b3568fb959-4881358-images-thumbs&n=13&logo=VKontakte&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
   <a href="https://t.me/MaxLazyBones" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
