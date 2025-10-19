@@ -1,29 +1,20 @@
-<h1 align="center">Привет! Меня зовут Максим!</h1>
-<h3 align="center">Я студент 4-го курса Российского университета дружбы народов. Активно развиваюсь в направлениях машинного обучения и бэкенда.</h3>
-
-- 🌱 В настоящее время я прохожу обучение **Прохожу обучение в Школе 21 по направлению «ИИ-инженер»**
-
-- 📫 Как со мной связаться **tortzilla@yandex.ru**
-
-<h3 align="left">Свяжитесь со мной:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com /" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg " alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com /" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/> </a> <a href="https://golang.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg " alt="перейти" width="40" height="40"/> </a> <a href="https://www.w3.org/html /" target="_blank" rel="noreferrer"> <изображение src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg " alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg " alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com /" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png " alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org /" target="_blank" rel="noreferrer"> <изображение src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg " alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org /" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg " alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org /" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg " alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org /" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg " alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg " alt="tensorflow" width="40" height="40"/> </a> </p>
-
 <br clear="both">
 
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
+###
+
+<h1 align="center">Привет! Меня зовут Максим!</h1>
+
+###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://vk.com/max_ataman" target="_blank">
+    <img src="https://avatars.mds.yandex.net/i?id=3958fc83911618d436675e6da272288d_l-5231453-images-thumbs&n=13&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/MaxLazyBones" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
